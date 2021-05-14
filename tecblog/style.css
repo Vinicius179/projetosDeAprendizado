@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #FCF8FC;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1em;
+}
+h1{
+    font-size: 25px;
+    color: #FFC300;
+    font-weight: 300;
+}
+h2{
+    background-color:#DEDADE;
+    font-size:20px;
+    font-weight: 700;
+    color: rgb(95, 94, 94);
+    padding-left: 5px;
+}
+
+#largura{
+    width: 1100px;
+    margin: auto;
+    padding: 25px;
+}
+#banner{
+    background-color:#FFC300 ;
+    text-align: center;
+    padding: 15px;
+}
+#menu{
+    padding-top: 15px;
+    margin-top: 15px;
+    margin-bottom: 0;
+}
+#menu li{
+    display: inline;
+}
+#menu a{   
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px;
+}
+#menu a:hover{
+    background-color: white;
+    color: #FFC300;
+}
+a{
+    color: #FFC300;
+    text-decoration: none;
+    list-style: none;
+}
+img{
+    margin-top: 15px;
+}
+#post-1{
+    background-color: white;
+    padding:15px;
+    width: 700px;
+    float: left;
+}
+#post-1 p{
+    padding-top: 5px;
+    width: 650px;
+}
+#post-2{
+    padding:15px;
+    width: 300px;
+    background-color: white;
+    float: right;
+}
+#post-2 p{
+    padding: 5px;
+}
+#post-3{
+    padding:15px;
+    width: 300px;
+    background-color: white;
+    float: right;
+    margin-top: 15px;
+}
+#post-4{
+    background-color: white;
+    padding:15px;
+    width: 700px;
+    float: left;
+    margin-top: 25px;
+}
+#canto{
+    position: relative;
+    bottom: 605px;
+}
+#footer{
+    clear: both;
+    text-align: center;
+    background-color: #adacb3;
+    font-size: 1em;
+    padding: 10px;
+}
