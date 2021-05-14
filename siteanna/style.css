@@ -1,0 +1,47 @@
+body{
+    background-image: url(imagens/fundo.png);
+}
+p{
+    font-size: 20px;
+    text-align: justify;    
+}
+h2{
+    color: #747250;    
+}
+#principal{
+    width: 1100px;
+}
+#capa{
+    width: 100%
+}
+
+#lista{
+    background-color: #D4D3BE;     
+    font-size: 20px;
+    font-weight: 600;
+    color: #4E586B;
+    padding: 18px;
+}
+#lista a{
+    color: #4E586B;
+    text-decoration: none;
+    padding: 5px;
+}
+
+#conteudo{
+    padding: 10px;
+    background-color: rgb(255, 249, 241);    
+}
+#rodape{
+text-align: center;
+padding: 10px;
+font-size: 20;
+}
+.margem{
+    padding-bottom: 25px;
+}
+.fotos{  
+    border:10px solid #bbbaa1;
+    
+}
+
